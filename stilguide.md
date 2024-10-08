@@ -18,6 +18,7 @@ Dessutom gör bilder det tydligare för personer som kanske inte är så vana vi
 ## • Vilka f¨arger (inkl. f¨argkoder) som anv¨ands och hur om detta f¨oljer ett m¨onster.
 Ex: Hemsidan g¨ors helt i grundf¨argerna. Endast rena RGB-f¨arger (100, 010 och 001) f˚ar anv¨andas.
 I vår websida så använder vi oss av 3 huvudfärger: #005DB8 #FDFFE5 och #FFDFF4
+
 ![Skärmbild 2024-10-08 093810](https://github.com/user-attachments/assets/73de6a99-43ca-4e6f-81ec-d001326c175e)![Skärmbild 2024-10-08 093822](https://github.com/user-attachments/assets/dde6df1c-bc2c-4f68-b056-084856692399)![Skärmbild 2024-10-08 093838](https://github.com/user-attachments/assets/ef0b15af-ffd9-4e79-a9a8-ea73b8b028db)
 
 
