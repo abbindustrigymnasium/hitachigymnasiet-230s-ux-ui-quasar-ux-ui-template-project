@@ -9,10 +9,12 @@ Eftersom vi har äldre som vår målgrupp har support varit ett av vårt fokusom
 Features du tänker lägga till men inte har kommit till ännu
 
 ## Bidra (contributing)
-Hur ska läsaren gå till väga om hen vill hjälpa till med koden och bidra till projektet?
+För möjligheten att någon vill forsätta med detta projekt så ta kontakt med Elvira Andersson.
 
 ## Författare och erkännande
-Vilka har bidragit?
+Eliva Andresson
+Gustav Sandell
+Marcus Persson
 
 ## Licens
 Vanligt alt. "Den här koden är öppen för fritt använande. Om koden används som grund för en publikation ber författaren om erkännande i sagd publikation." <-- standard i forskningsvärlden (fast då oftast på engelska...)
