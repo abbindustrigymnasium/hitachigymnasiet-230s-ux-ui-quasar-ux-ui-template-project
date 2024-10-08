@@ -35,17 +35,6 @@ Vanligt alt. "Den här koden är öppen för fritt använande. Om koden används
 ### Kända buggar
 Vilka fel är du medveten om men har inte hunnit/lyckats fixa ännu?
 
-## Filmanifest
-Lista på filer enligt mappstrukturen. Ex:
-
-- Mapp 1
-    - Fil1.py
-    - Fil2.py
-    - Fil3.cpp
-- Mapp 2
-    - Fil4.py
-    - Mapp 4
-        - Fil5.m       
-- Mapp 3
-    - Fil6.js 
-
+## Länk till figma
+[Figma design länk](https://www.figma.com/design/rxAVog3VAVG80zSJMQy2tM/Cakes-%26-Crumbs?node-id=0-1&t=YLxnU2mt9esHSXoU-1)
+[Figma sitemap/wireframe länk](https://www.figma.com/design/ytfpxRx9mDmsMwfQBGKWRD/SiteMap?m=auto&t=UCaNj82xg6koO1Sx-1)
