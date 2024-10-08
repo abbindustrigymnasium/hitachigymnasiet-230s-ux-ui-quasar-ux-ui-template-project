@@ -28,7 +28,25 @@ I vår websida så använder vi oss av 3 huvudfärger: #005DB8 #FDFFE5 och #FFDF
 
 ## • Listning samt placering av ˚aterkommande komponenter.
 Ex: Alla sidor ska inneh˚alla huvudmeny, logga och sidrubrik. Placeringen av respektive objekt ¨ar...
+#### I skälvarste layouten i appen så hade vi huvedsakliga mål. 1: ha så få knapar som möjligt 2: Va så tydlig som möjligt 3: Gör så andvändaren enkelt kan navigera appen med mer: Under ser du menyn
+![Skärmbild 2024-10-08 203958](https://github.com/user-attachments/assets/4d830237-21e4-4a3e-ba0d-0e57fac00efe) ![Skärmbild 2024-10-08 204006](https://github.com/user-attachments/assets/316704cc-a2e8-4b5f-8e58-f82b474a70e7)
 
-## • Beskrivning av designstilen som appliceras p˚a ikoner, knappar etc. med referensbilder till ikoner
+
+#### I menyn har vi skapat en tydlig layout med fem synliga knappar, så enkla att till och med en 80-åring lätt skulle kunna förstå vad de gör. Genom att använda mörka ikoner på de vita knapparna har vi gjort det enkelt att urskilja dem. 
+#### Dessutom har vi valt att inte kräva inloggning, eftersom det kan vara svårt för äldre att hantera. Samtidigt finns möjligheten att fylla i sin information för de som vill.
+
+
+![Skärmbild 2024-10-08 204037](https://github.com/user-attachments/assets/39572f8b-d826-4c53-b2ee-2f02529d1f01) ![Skärmbild 2024-10-08 204053](https://github.com/user-attachments/assets/268d6f8e-4bb7-410e-a218-6a13460eee3a)
+
+
+#### I själva kak och tårtsektionerna kan användaren enkelt justera innehållet längst ner i appen med hjälp av två tydliga knappar. Designen av tårtorna och kakorna inspirerades av de kakförsäljningstidningar vi använde i början av terminen.
+#### Vi valde denna layout eftersom den passar bra för mobilformatet och är lätt att skrolla igenom.
+
+
+#### Login samt checkout ärganska simpla där det inte har något specielt för sig. Det enda speciela är att man kan betala med kontanter vid hämtning något som är en anpastning för de äldre.
+
+![Skärmbild 2024-10-08 204022](https://github.com/user-attachments/assets/4bb4f2c4-bac0-4f23-8ccf-9e5f7ed6473f)
+
+
 som kan/ska ˚ateranv¨andas.
 Ex: Ikoner ¨ar svart/vita och pixlade. Exempelbilder
