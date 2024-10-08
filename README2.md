@@ -1,6 +1,6 @@
-# Titel på mitt projekt!
+# Cakes & Crumbs (pensionärer)
 
-Här passar en kort beskrivning av projektet...
+I detta projekt har vi arbetat på att utveckla en hemsida som är anpassad för pensionärer, där vi har behövt tänka på deras ålder eftersom pensionärer oftast har försämrad syn, är inte lika tekniskt fördjupade tillskillnad från dagen ungdommar. Utifrån detta har vi tänkt på hur vi ska designa för att tydligt se vad de olika sakerna är men också för en enkel navigering.
 
 ## Installation
 För att installera koden behöver du... steg för steg inklusive ev. andra program/moduler som behöver installeras.
