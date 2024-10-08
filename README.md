@@ -1,24 +1,6 @@
-# Quasar App (quasar-project)
-
-A Quasar Project
-
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+# Pensionärsgruppen
 
 
-### Build the app for production
-```bash
-quasar build
-```
+[Figma länk]([https://www.example.com](https://www.figma.com/proto/ytfpxRx9mDmsMwfQBGKWRD/SiteMap?node-id=1669-162202&t=K59cq6EsrVvCLFJ6-1))
 
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+
