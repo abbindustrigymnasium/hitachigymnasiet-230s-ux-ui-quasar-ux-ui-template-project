@@ -16,7 +16,7 @@
 
 
 ## • Vilka f¨arger (inkl. f¨argkoder) som anv¨ands och hur om detta f¨oljer ett m¨onster.
-I vår app så använder vi oss av 3 huvudfärger: #005DB8 #FDFFE5 och #FFDFF4
+#### I vår app så använder vi oss av 3 huvudfärger: #005DB8 #FDFFE5 och #FFDFF4
 
 ###### ![Skärmbild 2024-10-08 093810](https://github.com/user-attachments/assets/73de6a99-43ca-4e6f-81ec-d001326c175e)![Skärmbild 2024-10-08 093822](https://github.com/user-attachments/assets/dde6df1c-bc2c-4f68-b056-084856692399)![Skärmbild 2024-10-08 093838](https://github.com/user-attachments/assets/ef0b15af-ffd9-4e79-a9a8-ea73b8b028db)
 #### Även om färgkombinationen kan verka något ovanlig, var vårt huvudfokus att skapa en tydlig kontrast, särskilt anpassad för personer med nedsatt syn. 
@@ -46,9 +46,21 @@ Ex: Alla sidor ska inneh˚alla huvudmeny, logga och sidrubrik. Placeringen av re
 
 ![Skärmbild 2024-10-08 204022](https://github.com/user-attachments/assets/4bb4f2c4-bac0-4f23-8ccf-9e5f7ed6473f)
 
-På About us så valde vi att ha möjligheten att lysna på texterna istelet för att behöva läsa texterna. 
+#### På About us så valde vi att ha möjligheten att lysna på texterna istelet för att behöva läsa texterna. 
 
 ![Skärmbild 2024-10-08 204644](https://github.com/user-attachments/assets/4e455179-6a35-4fc1-80ca-c8c09a7f08f2)
+
+#### inlogningen (inget specielt)
+![Skärmbild 2024-10-08 210218](https://github.com/user-attachments/assets/2ad10e05-e68f-4f79-a04c-48c67c0bd4f2)
+
+
+
+#### Vi försökte göra kontaktfunktionen så tydlig som möjligt, där användaren kan fylla i två saker: ämne (topic) och själva meddelandet. Inloggningen är integrerad direkt via appen, vilket gör att vi kunde ta bort en separat knapp och därmed göra layouten ännu tydligare för vår målgrupp.
+![Skärmbild 2024-10-08 210201](https://github.com/user-attachments/assets/4ffdef1f-f99c-43dd-93f9-e321cc7d30ad)
+
+
+
+
 
 
 
