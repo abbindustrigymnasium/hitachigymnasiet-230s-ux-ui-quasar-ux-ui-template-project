@@ -12,9 +12,9 @@ Features du tänker lägga till men inte har kommit till ännu
 För möjligheten att någon vill forsätta med detta projekt så ta kontakt med Elvira Andersson.
 
 ## Författare och erkännande
-Eliva Andresson
-Gustav Sandell
-Marcus Persson
+###Eliva Andresson
+###Gustav Sandell
+###Marcus Persson
 
 ## Licens
 Vanligt alt. "Den här koden är öppen för fritt använande. Om koden används som grund för en publikation ber författaren om erkännande i sagd publikation." <-- standard i forskningsvärlden (fast då oftast på engelska...)
