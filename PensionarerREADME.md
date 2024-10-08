@@ -15,7 +15,7 @@ Tänk på att beskriva var ev. filer hittas eller från vilken mapp den ska kör
 ```
 
 ## Support
-Var kan användare få hjälp? Finns det någon chatt? Troligare för er: en mailadress de kan skicka meddelande till
+Eftersom vi har äldre som vår målgrupp har support varit ett av vårt fokusområde då många äldre kan ha svårt med digitala verktyg. På vår webbplats kan man enkelt kontakta oss via "Contact us" där man kan skriva en topic och ett huvud meddelande som beskriver vad som behövs hjälp med. Utöver detta har vi även anpassat utseendet på webbplatsen för att underlätta för äldre användare. För att stödja personer med nedsatt syn har vi använt en hög kontrast mellan färgerna, vilket gör sidan lättare att navigera och använda.
 
 ## Framtidsplaner/utvecklingsmål
 Features du tänker lägga till men inte har kommit till ännu
