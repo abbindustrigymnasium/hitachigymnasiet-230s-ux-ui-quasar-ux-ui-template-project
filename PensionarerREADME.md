@@ -33,8 +33,7 @@ Vanligt alt. "Den här koden är öppen för fritt använande. Om koden används
 Är det under utveckling? Färdigt? Inte färdigt men inte heller under aktiv utveckling?
 
 ### Kända buggar
-Vilka fel är du medveten om men har inte hunnit/lyckats fixa ännu?
-
+En bugg som vi har försökt åtgärda är att en av våra sidor går att skrolla alldeles för mycket. Vi har arbetat på att lösa detta problem, men av någon anledning har vi inte lyckats fixa just den specifika delen av sidan. Vi har frågat hjälp av flera lärare, men buggen verkar ha förekomit pågrund av ett fel i figma så buggen kvarstår.
 ## Filmanifest
 Lista på filer enligt mappstrukturen. Ex:
 
