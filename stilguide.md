@@ -16,8 +16,7 @@
 
 
 ## • Vilka f¨arger (inkl. f¨argkoder) som anv¨ands och hur om detta f¨oljer ett m¨onster.
-Ex: Hemsidan g¨ors helt i grundf¨argerna. Endast rena RGB-f¨arger (100, 010 och 001) f˚ar anv¨andas.
-I vår websida så använder vi oss av 3 huvudfärger: #005DB8 #FDFFE5 och #FFDFF4
+I vår app så använder vi oss av 3 huvudfärger: #005DB8 #FDFFE5 och #FFDFF4
 
 ###### ![Skärmbild 2024-10-08 093810](https://github.com/user-attachments/assets/73de6a99-43ca-4e6f-81ec-d001326c175e)![Skärmbild 2024-10-08 093822](https://github.com/user-attachments/assets/dde6df1c-bc2c-4f68-b056-084856692399)![Skärmbild 2024-10-08 093838](https://github.com/user-attachments/assets/ef0b15af-ffd9-4e79-a9a8-ea73b8b028db)
 #### Även om färgkombinationen kan verka något ovanlig, var vårt huvudfokus att skapa en tydlig kontrast, särskilt anpassad för personer med nedsatt syn. 
@@ -47,6 +46,14 @@ Ex: Alla sidor ska inneh˚alla huvudmeny, logga och sidrubrik. Placeringen av re
 
 ![Skärmbild 2024-10-08 204022](https://github.com/user-attachments/assets/4bb4f2c4-bac0-4f23-8ccf-9e5f7ed6473f)
 
+På About us så valde vi att ha möjligheten att lysna på texterna istelet för att behöva läsa texterna. 
 
-som kan/ska ˚ateranv¨andas.
-Ex: Ikoner ¨ar svart/vita och pixlade. Exempelbilder
+![Skärmbild 2024-10-08 204644](https://github.com/user-attachments/assets/4e455179-6a35-4fc1-80ca-c8c09a7f08f2)
+
+
+
+#### I detta projekt använde vi realistiska bilder för att visa tårtorna och kakorna, så att det tydligt framgick vad man köper. För resten av elementen valde vi däremot enkla, tydliga och enfärgade ikoner. 
+#### Vi gjorde detta eftersom det passade bäst för användarupplevelsen. Realistiska ikoner, till exempel för shoppingvagnen gjorde det mindre tydligt vad knappen representerade. Och att använda en ikon med en person för inloggningsknappen kändes helt absurt.
+#### Därför valde vi att ha vissa ikoner realistiska medans andra var simpla.
+![Skärmbild 2024-10-08 205511](https://github.com/user-attachments/assets/752f8aad-0af1-4c95-af8c-722e24f89e25)
+
