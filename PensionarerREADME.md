@@ -30,7 +30,7 @@ Vilka har bidragit?
 Vanligt alt. "Den här koden är öppen för fritt använande. Om koden används som grund för en publikation ber författaren om erkännande i sagd publikation." <-- standard i forskningsvärlden (fast då oftast på engelska...)
 
 ## Projektstatus
-Är det under utveckling? Färdigt? Inte färdigt men inte heller under aktiv utveckling?
+Efter detta projekt har vi bestämt oss av att inte fortsätta arbeta med våran applikation som är anpassad för pensionärer, "Cakes & Crumbs". Vi vet därimot att applikation inte är helt komplet och har vissa saker i den som kan förbättras men det kommer inte ske, så från och med nu är projektet inte under aktiv utveckling häller.
 
 ### Kända buggar
 Vilka fel är du medveten om men har inte hunnit/lyckats fixa ännu?
